@@ -45,10 +45,9 @@ git clone https://github.com/skubaid5837/EcommerceMVVM.git
 This project demonstrates:
 
 - Implementation of MVVM with Kotlin  
-- Use of ViewModel and LiveData/Flow for state management  
+- Use of ViewModel and LiveData for state management  
 - Repository pattern for data abstraction  
 - Integration of Material Components for UI consistency  
-- Use of dependency injection with Hilt  
 - Modular, clean, and maintainable architecture  
 
 ---
